@@ -1,0 +1,12 @@
+# MS SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+# Power BI
+*.pbix
+*.pbit
+*.bak
+
+# Temporary files
+~$*
